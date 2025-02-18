@@ -17,7 +17,7 @@ This project performs various analyses on a dataset using Python. It includes te
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/abdulrehman-11/finetune.git
+   git clone https://github.com/abdulrehman-11/FineTuneScriptAI.git
    cd finetune
    ```
 
